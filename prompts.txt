@@ -1,0 +1,6 @@
+quick_chat_system_prompt
+system_learning_prompt
+learning_prompt
+review_prompt
+debug_prompt
+modify_code_prompt

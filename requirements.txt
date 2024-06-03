@@ -1,0 +1,24 @@
+pyautogen
+requests
+streamlit
+openai
+toml
+pandas
+tabulate
+python-dotenv
+httpx
+asyncio
+pytest
+fastapi
+uvicorn
+gunicorn
+jupyter
+
+# Prev req doc
+
+streamlit
+openai
+toml
+pandas
+tabulate
+python-dotenv
