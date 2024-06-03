@@ -1,5 +1,4 @@
 
-```markdown
 # Ducky: The AI-Powered Personal Coding Assistant
 
 **Ducky** is an AI-powered personal coding assistant designed to help with coding needs.
@@ -31,4 +30,3 @@ Learn new programming languages, frameworks, and concepts with guided explanatio
 To start the Ducky application, run:
 ```sh
 streamlit run my_Ducky.py
-```
